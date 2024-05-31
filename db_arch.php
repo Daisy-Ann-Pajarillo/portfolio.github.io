@@ -74,13 +74,13 @@
 
 <nav>
 <b>
-        <a href="index.php">Rationale</a>
-        <a href="objectives.php">Objectives</a>
-        <a href="db_arch.php">Database Architecture</a>
-        <a href="erd_diagram.php">ERD Diagram</a>
-        <a href="queries.php">Queries</a>
-        <a href="db_fiddle.php">DB Fiddle Link</a>
-        <a href="proponents.php">Proponents</a> <!-- Added link for Proponents -->
+        <a href="index.html">Rationale</a>
+        <a href="objectives.html">Objectives</a>
+        <a href="db_arch.html">Database Architecture</a>
+        <a href="erd_diagram.html">ERD Diagram</a>
+        <a href="queries.html">Queries</a>
+        <a href="db_fiddle.html">DB Fiddle Link</a>
+        <a href="proponents.html">Proponents</a> <!-- Added link for Proponents -->
     </b>
 </nav>
 
